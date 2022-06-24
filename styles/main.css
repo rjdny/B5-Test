@@ -40,6 +40,11 @@ ul {
     justify-content: space-between;
 }
 
+li{
+    border-radius: 0.1rem;    
+    border: 1px dashed #191b1f;
+}
+
 #options {
     background-color: #404040;
     color: black;
